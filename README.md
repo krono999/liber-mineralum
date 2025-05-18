@@ -25,4 +25,6 @@ Liber Mineralum is an interactive 3D web application that lets users explore sac
 
 ---
 
+## 🖤 Inspiration
+This project draws inspiration from my esoteric texts collection, magical grimoires, and the beauty of Earth's hidden crystals. It's a tool for exploration, reflection, and curiosity. :)
 
