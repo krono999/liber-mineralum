@@ -86,5 +86,121 @@
       "USA (Montana, Oregon)"
     ],
     "model": "/models/agate/scene.gltf"
-  }
+  },
+  {
+  "name": "Blue Calcite",
+  "esoteric_meaning": "A soothing stone of emotional healing, Blue Calcite carries a gentle, high-vibrational energy that calms the mind and enhances communication. Known as 'the stone of the emotional healer,' it helps release fear, stress, and old traumas while promoting peaceful self-expression.",
+  "color": "Pale to sky blue (translucent to opaque)",
+  "uses": [
+    "Emotional healing",
+    "Enhancing intuition",
+    "Throat chakra activation",
+    "Stress relief"
+  ],
+  "chakra": "Throat, Third Eye",
+  "origin": [
+    "Mexico",
+    "USA",
+    "Brazil",
+    "Madagascar"
+  ],
+  "model": "/models/calcite_blue/scene.gltf"
+},
+{
+  "name": "Danburite",
+  "esoteric_meaning": "A high-vibration crystal of angelic connection, Danburite radiates pure, loving energy that opens the heart and crown chakras. Known as 'the stone of spiritual joy,' it facilitates deep meditation, spiritual awakening, and communication with higher realms.",
+  "color": "Colorless, white, pale pink or yellow",
+  "uses": [
+    "Spiritual enlightenment",
+    "Emotional healing",
+    "Enhancing meditation",
+    "Angelic communication"
+  ],
+  "chakra": "Crown, Heart",
+  "origin": [
+    "Mexico (Charcas)",
+    "USA (Connecticut)",
+    "Russia",
+    "Japan"
+  ],
+  "model": "/models/danburite/scene.gltf"
+},
+{
+  "name": "Fluorite",
+  "esoteric_meaning": "Called 'the genius stone,' Fluorite is a powerful crystal for mental clarity, focus, and spiritual protection. Its multi-layered structure cleanses energy fields, enhances intuition, and shields against psychic manipulation. Different colors carry additional specific properties.",
+  "color": "Purple, green, blue, yellow, rainbow (often banded)",
+  "uses": [
+    "Mental clarity",
+    "Psychic protection",
+    "Enhancing decision-making",
+    "Aura cleansing"
+  ],
+  "chakra": "Third Eye, Crown (varies by color)",
+  "origin": [
+    "China",
+    "Mexico",
+    "England",
+    "USA (Illinois)",
+    "Namibia"
+  ],
+  "model": "/models/fluorite/scene.gltf"
+},
+{
+  "name": "Goethite",
+  "esoteric_meaning": "A grounding stone of endurance and transformation, Goethite connects deeply with Earth's energy. Known as 'the stone of the shaman,' it aids in past-life recall, spiritual journeying, and transmuting negative patterns into wisdom. Its iron content provides stabilizing vibrations.",
+  "color": "Black, brown, yellowish (metallic luster)",
+  "uses": [
+    "Grounding",
+    "Past-life work",
+    "Transmuting negativity",
+    "Enhancing willpower"
+  ],
+  "chakra": "Root, Solar Plexus",
+  "origin": [
+    "Germany",
+    "USA (Michigan)",
+    "Brazil",
+    "Australia"
+  ],
+  "model": "/models/goethite/scene.gltf"
+},
+{
+  "name": "Marble",
+  "esoteric_meaning": "A stone of purity and timeless strength, Marble carries the energy of ancient Earth wisdom. Symbolizing perfection and clarity, it helps dissolve mental rigidity, inspires creativity, and brings harmony to chaotic situations. Often used for carving sacred art and temples.",
+  "color": "White, gray, green, pink (veined patterns)",
+  "uses": [
+    "Mental clarity",
+    "Emotional balance",
+    "Enhancing creativity",
+    "Connecting to ancient wisdom"
+  ],
+  "chakra": "Crown, Third Eye",
+  "origin": [
+    "Italy (Carrara)",
+    "Greece",
+    "Turkey",
+    "India",
+    "USA (Vermont)"
+  ],
+  "model": "/models/marble/scene.gltf"
+},
+{
+  "name": "Stibnite",
+  "esoteric_meaning": "A rare stone of alchemical power, Stibnite is associated with transformation, shadow work, and accessing hidden knowledge. Its metallic, spear-like crystals symbolize piercing through illusions and activating the third eye with intense focus. Use with caution due to its toxic mineral content.",
+  "color": "Metallic gray-black (needle-like crystals)",
+  "uses": [
+    "Shadow work",
+    "Psychic abilities",
+    "Breaking illusions",
+    "Alchemical transformation"
+  ],
+  "chakra": "Third Eye, Root",
+  "origin": [
+    "China",
+    "Japan",
+    "Romania",
+    "USA (Nevada)"
+  ],
+  "model": "/models/stibnite/scene.gltf"
+}
 ]
