@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Galena",
+    "esoteric_meaning": "Galena guides the path toward spiritual transformation. Resonating with the soul’s most authentic vibration, it balances the physical, etheric, and spiritual bodies. By centering energy, it grounds the spirit and ensures a connection to the Earth.",
+    "color": "White, Grey",
+    "uses": ["Relaxation", "Meditation"],
+    "chakra": "Crown",
+    "origin": ["Brazil", "Uruguay"],
+    "model": "/models/galena/scene.gltf"
+  },
+  {
+    "name": "Malachite",
+    "esoteric_meaning": "A stone of transformation and protection, malachite absorbs negative energies and psychic attacks. Known as 'the mirror of the soul,' it reveals hidden emotions and amplifies truth. Linked to the Egyptian goddess Hathor, it was used in ancient rituals for divine vision and safe travel.",
+    "color": "Green (banded with light/dark patterns)",
+    "uses": [
+      "Emotional healing",
+      "Protection",
+      "Manifestation",
+      "Divination"
+    ],
+    "chakra": "Heart, Third Eye",
+    "origin": [
+      "Congo",
+      "Russia",
+      "Australia",
+      "Arizona (USA)"
+    ],
+    "model": "/models/malachite/scene.gltf"
+  },
+  {
+    "name": "Rose des Sables",
+    "esoteric_meaning": "A sacred stone of the desert, Rose des Sables symbolizes the beauty born from harsh conditions. Known as 'the flower of the sands,' it represents transformation through adversity and the union of opposites (water and mineral). Believed to hold the energy of the desert, it promotes grounding, patience, and spiritual growth.",
+    "color": "Sandy beige to golden brown (rosette-shaped formations)",
+    "uses": [
+      "Grounding energy",
+      "Connection to Earth",
+      "Emotional balance",
+      "Protection during travel"
+    ],
+    "chakra": "Root, Sacral",
+    "origin": [
+      "Sahara Desert",
+      "Tunisia",
+      "Algeria",
+      "Mexico",
+      "Arizona (USA)"
+    ],
+    "model": "/models/rose_des_sables/scene.gltf"
+  },
+  {
+    "name": "Aragonite",
+    "esoteric_meaning": "A powerful grounding stone, Aragonite helps stabilize emotions and enhance patience. Known as 'the Earth’s nurturer,' it connects deeply with the Earth’s energy, promoting strength and resilience. Often used in meditation to improve focus and bring clarity, it is also associated with abundance and manifestation.",
+    "color": "White, brown, yellow, blue, green (often with striations or clusters)",
+    "uses": [
+      "Grounding and centering",
+      "Stress relief",
+      "Enhancing focus",
+      "Manifesting abundance"
+    ],
+    "chakra": "Root, Earth Star",
+    "origin": [
+      "Spain",
+      "Morocco",
+      "Mexico",
+      "USA",
+      "Namibia"
+    ],
+    "model": "/models/aragonite/scene.gltf"
+  },
+  {
+    "name": "Agate",
+    "esoteric_meaning": "A stone of harmony and protection, Agate stabilizes the aura and transforms negative energies. Known as 'the stabilizer,' it balances emotional, physical, and intellectual energies. Each variety carries unique properties, but all Agates promote inner strength, security, and connection to the Earth's rhythms.",
+    "color": "Multicolored (banded layers), commonly blue, green, red, brown, or white",
+    "uses": [
+      "Emotional balance",
+      "Protection from negativity",
+      "Enhancing mental clarity",
+      "Strengthening self-confidence"
+    ],
+    "chakra": "Varies by type (e.g., Blue Lace Agate = Throat, Moss Agate = Heart)",
+    "origin": [
+      "Brazil",
+      "Uruguay",
+      "India",
+      "Madagascar",
+      "USA (Montana, Oregon)"
+    ],
+    "model": "/models/agate/scene.gltf"
+  }
+]
