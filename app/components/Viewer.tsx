@@ -2,11 +2,11 @@
 import { Canvas } from '@react-three/fiber'
 import { OrbitControls, Environment } from '@react-three/drei'
 import { Suspense, useRef } from 'react'
+import type { OrbitControls as OrbitControlsType } from 'three-stdlib'
 import { StoneCanvas } from './StoneCanvas'
-import { OrbitControls as OrbitControlsImpl } from '@react-three/drei'
 
 export default function Viewer({ modelPath }: { modelPath: string }) {
-  const controlsRef = useRef<OrbitControlsImpl>(null)
+  const controlsRef = useRef<OrbitControlsType | null>(null)
 
   return (
     <div className="w-full h-[300px] relative">
@@ -27,8 +27,8 @@ export default function Viewer({ modelPath }: { modelPath: string }) {
         <pointLight position={[5, 5, 5]} intensity={1} />
         <Environment preset="city" />
         <Suspense fallback={<group />}>
-  <StoneCanvas path={modelPath} />
-</Suspense>
+          <StoneCanvas path={modelPath} />
+        </Suspense>
         <OrbitControls
           ref={controlsRef}
           makeDefault
