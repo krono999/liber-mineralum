@@ -1,36 +1,29 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Liber Mineralum 🌑💎
 
-## Getting Started
+*A mystical journey into the realm of esoteric stones and minerals.*
 
-First, run the development server:
+Liber Mineralum is an interactive 3D web application that lets users explore sacred stones and their metaphysical properties. Built using modern web technologies like **React Three Fiber**, **Next.js**, and **TypeScript**, this project blends spiritual aesthetics with real-time 3D rendering.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🧱 Tech Stack
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **React** + **Next.js** (App Router)
+- **Three.js** + **React Three Fiber**
+- **Tailwind CSS** for styling
+- **TypeScript** for type safety
+- **GLTF Models** for realistic 3D stones
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🔮 Features
 
-To learn more about Next.js, take a look at the following resources:
+- 🧭 Minimalist landing page with an arcane style  
+- 💫 Preloading of all 3D models for instant access  
+- 💎 Swipe through various stones with their meanings, chakra associations, origins and use cases  
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🖤 Inspiration
+This project draws inspiration from my esoteric texts collection, magical grimoires, and the beauty of Earth's hidden crystals. It's a tool for exploration, reflection, and curiosity. :)
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
