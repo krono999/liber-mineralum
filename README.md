@@ -21,7 +21,6 @@ Liber Mineralum is an interactive 3D web application that lets users explore sac
 - 🧭 Minimalist landing page with an arcane style  
 - 💫 Preloading of all 3D models for instant access  
 - 💎 Swipe through various stones with their meanings, chakra associations, origins and use cases  
-- 🧙‍♂️ Mysterious dark aesthetic with smooth transitions  
 
 ---
 
