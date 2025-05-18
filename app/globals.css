@@ -1,15 +1,27 @@
-@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  @keyframes fade-in-down {
+    0% {
+      opacity: 0;
+      transform: translateY(-0.5rem);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  .animate-fade-in-down {
+    animation: fade-in-down 1.2s ease-out forwards;
+  }
+} 
 
 :root {
   --background: #ffffff;
   --foreground: #171717;
-}
-
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -19,9 +31,8 @@
   }
 }
 
-
 body {
-  background: #1a1a1a; /* Oscuro, pero no negro jeje */
+  background: #1a1a1a;
   color: white;
   font-family: sans-serif;
   margin: 0;
@@ -29,11 +40,11 @@ body {
 }
 
 .card {
-  background: rgba(255, 255, 255, 0.05); /* Le da transparencia */
-  backdrop-filter: blur(10px); /* Difumina lo de atrás */
-  -webkit-backdrop-filter: blur(10px); /* Safari */
+  background: rgba(255, 255, 255, 0.05); 
+  backdrop-filter: blur(10px); 
+  -webkit-backdrop-filter: blur(10px); 
   border-radius: 1rem;
-  border: 1px solid rgba(255, 255, 255, 0.15); /* Sutil marco blanco */
+  border: 1px solid rgba(255, 255, 255, 0.15);
   padding: 1.5rem;
-  box-shadow: 0 0 30px rgba(0, 0, 0, 0.3); /* Sombras suaves */
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.3); 
 }

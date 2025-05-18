@@ -9,6 +9,11 @@ export default function Landing() {
         <h1 className="text-5xl md:text-7xl font-serif font-bold tracking-widest">
           Liber Mineralum
         </h1>
+
+        <p className="text-xl md:text-2xl font-light text-gray-300 opacity-0 animate-fade-in-down">
+          Sacred stones and hidden gems, whispering secrets of the Earth.
+        </p>
+
         <Link
           href="/catalog"
           className="inline-block border border-white text-white px-6 py-3 text-lg hover:bg-white hover:text-black transition-colors duration-300"
